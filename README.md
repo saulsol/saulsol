@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Saul 👋
 <a href="https://github.com/saulsol">
   <img src="./static/KakaoTalk_20230907_201714465.gif" width="400"/>
 </a>
@@ -13,7 +13,8 @@
 
 ## ⚙️ Tech
 <p>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 </p>
 <p>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=black">
@@ -22,6 +23,8 @@
 </p>
 <p>
 <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=black">
+<img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+
 </p>
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=black">
