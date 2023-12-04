@@ -35,6 +35,7 @@
 </p>
 <p>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=black">
+<img src="https://img.shields.io/badge/QueryDSL-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"> 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=black">
   
 </p>
