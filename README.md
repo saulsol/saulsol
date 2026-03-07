@@ -9,9 +9,8 @@
 * Language: Java, TypeScript, C  
 * Framework: Spring Boot, Next.js  
 
-Interested in **Data Engineering** 😊  
-
-Currently Studying **ELK & Kafka** 🚀
+<i>Interested in Data Engineering </i>😊<br>
+<i>Currently Studying ELK & Kafka </i>🚀
 
 </td>
 
