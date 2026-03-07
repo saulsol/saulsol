@@ -11,7 +11,7 @@
 
 <i>Interested in Data Engineering</i> 😊<br>
 <i>Currently Studying ELK, Kafka, 
-Apache Spark, and Airflow</i> 🚀
+Apache Spark, and Airflow</i> 
 
 </td>
 
